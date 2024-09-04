@@ -7,10 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a finaly year undegraduate computer science student at the University of Toronto.
+I am a final year undegraduate computer science student at the University of Toronto.
 
-My research interests are in Computer Vision (3D Perception and Analysis) and studying how AI can benefit the life sciences.
+My goal is to develop **trustworthy machine learning models** that can work alongside clinicians and life sciences researchers. To this end, I am interested in studying robust generalization of ML models and explainable AI techniques.
 
+My research interest was inspired by my capstone project, which implemented CNN models and evaluated their efficacy for classifying three types of brain tumours present in MRI slices. The training and test datasets had been collected from a single hospital, prompting me to probe further into how models that learn from limited examples can retain their performance as new experimental and clincial data is collected.
+
+I am currently an ML researcher at Gene2Lead, where I am being learning new things about the drug development lifecycle every day. My work involves developing ML models for assessing potential target sites of covalent drugs.  
+
+Teaching is a passion of mine, and I have been fortunate to be a teaching assistant for the undergraduate intro to ML course at the University of Toronto. In my free time, I have also mentored prospective computer science majors and aspiring ML researchers.
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
