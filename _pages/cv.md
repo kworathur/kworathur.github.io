@@ -9,28 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
+Please see the PDF version of my CV [here](https://github.kworathur.io/files/cv.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+* B.S. in Computer Science, University of Toronto, 2020-2024
+
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2024: Machine Learning Researcher
+  * Gene2Lead
+  * Duties includes: Researching current methods for predicting reactivity of amino acids positioned on proteins.
+  * Supervisor: Prof. Lisa Zhang and Dr. Fettah Erdogan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2023 - Winter 2024: Teaching Assistant
+  * University of Toronto
+  * Duties included: Teaching tutorial sections and marking assignments.
   
 Skills
 ======

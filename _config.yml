@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Keshav's Homepage"
 title_separator          : "-"
 name                     : &name "Keshav Worathur"
-description              : &description "personal description"
+description              : &description "Academic portfolio of Keshav Worathur. Keshav is a final year undergraduate computer science major at the University of Toronto."
 url                      : https://kworathur.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kworathur/kworathur.github.io"
@@ -22,9 +22,9 @@ repository               : "kworathur/kworathur.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Keshav W."
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "ML Researcher in pharmacology"
   location         : "Toronto, ON"
   employer         : "University of Toronto"
   uri              : # URL
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
