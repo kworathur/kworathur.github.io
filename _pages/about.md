@@ -7,17 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year undegraduate computer science student at the University of Toronto.
+I am a final year undergraduate computer science student at the University of Toronto with interests in **explainable AI**, **interpretable machine learning**, and **computational healthcare**.
 
-My goal is to develop **trustworthy machine learning models** that can work alongside clinicians and life sciences researchers. To this end, I am interested in studying robust generalization of ML models and explainable AI techniques.
+My goal is to make ML model explanations that empower consumers of algorithmic decisions to audit and learn from machine learning models, with a focus on applications to clinical medicine. In particular, I am interested in improving explanations for predictions on medical image data and refining interpretable models for recommending treatments.
 
-My research interest was inspired by my capstone project, which evaluated the efficacy of a custom CNN model for classifying three types of brain tumours from Magentic Resonance Imaging (MRI) scans. The training and test datasets had been collected from a single hospital, prompting me to probe further into how models that learn from limited examples can retain their performance as new experimental and clincial data is collected.
+The idea of intuitive model explanations that can facilitate stakholder involvement ML development has long fascinated me and has been a recurring theme in my work. While developing a CNN model for brain tumour classification from MRI scans, I explored the use of saliency maps and gradient-based feature attribution techniques as a debugging tool.
 
-I am currently an ML researcher at Gene2Lead, where I am learning new things about the drug development lifecycle every day. My work involves developing ML models for assessing potential target sites of covalent drugs.  
+ These tools were mostly helpful in diagnosing failures, giving incomplete perspective of transparency into model predictions.
 
-Teaching is a passion of mine, and I have been fortunate to be a teaching assistant for the undergraduate intro to ML course at the University of Toronto. In my free time, I have also mentored high school students to help them learn more about AI.
+In my current position as a Machine Learning researcher at Gene2Lead, I set about uniting medicinal intuition chemists with the intuition of deep learning models they use for drug discovery. I evaluated GradCAM and a host of other local explainability techniques that relied on gradients for explanations, a concept which I realized is alien to most end-users. I am now 
 
-Template instructions
+
+<!-- Template instructions
 ======
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
@@ -59,4 +60,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
