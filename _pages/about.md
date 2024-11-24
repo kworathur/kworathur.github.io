@@ -11,11 +11,9 @@ I am a final year undergraduate computer science student at the University of To
 
 My goal is to make ML model explanations that empower consumers of algorithmic decisions to audit and learn from machine learning models, with a focus on applications to clinical medicine. In particular, I am interested in improving explanations for predictions on medical image data and refining interpretable models for recommending treatments.
 
-The idea of intuitive model explanations that can facilitate stakholder involvement ML development has long fascinated me and has been a recurring theme in my work. While developing a CNN model for brain tumour classification from MRI scans, I explored the use of saliency maps and gradient-based feature attribution techniques as a debugging tool.
-
- These tools were mostly helpful in diagnosing failures, giving incomplete perspective of transparency into model predictions.
-
-In my current position as a Machine Learning researcher at Gene2Lead, I set about uniting medicinal intuition chemists with the intuition of deep learning models they use for drug discovery. I evaluated GradCAM and a host of other local explainability techniques that relied on gradients for explanations, a concept which I realized is alien to most end-users. I am now 
+The idea of intuitive model explanations that can facilitate stakholder involvement ML development has long fascinated me and has been a recurring theme in my work. While developing a CNN model for brain tumour classification from MRI scans, I explored the use of saliency maps and gradient-based feature attribution techniques as a debugging tool. 
+These tools were mostly helpful in diagnosing failures, giving incomplete perspective of transparency into model predictions.
+In my current position as a Machine Learning researcher at Gene2Lead, I set about uniting medicinal intuition chemists with the intuition of deep learning models they use for drug discovery. I evaluated GradCAM and a host of other local explainability techniques that relied on gradients for explanations, a concept which I realized is alien to most end-users. 
 
 
 <!-- Template instructions

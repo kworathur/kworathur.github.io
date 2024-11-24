@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Keshav's Homepage"
+title                    : "Keshav Worathur"
 title_separator          : "-"
 name                     : &name "Keshav Worathur"
 description              : &description "Academic portfolio of Keshav Worathur. Keshav is a final year undergraduate computer science major at the University of Toronto."
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Keshav W."
   pronouns         : # example: "she/her"  
-  bio              : "ML Researcher in pharmacology"
+  bio              : "Undergraduate student interest in interpretable machine learning"
   location         : "Toronto, ON"
   employer         : "University of Toronto"
   uri              : # URL

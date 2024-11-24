@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please see the PDF version of my CV [here](https://github.kworathur.io/files/cv.pdf)
+Please see the PDF version of my CV [here](/files/cv.pdf)
 
 Education
 ======
