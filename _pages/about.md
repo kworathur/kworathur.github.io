@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year undergraduate computer science student at the University of Toronto with interests in **explainable AI**, **interpretable machine learning**, and **computational healthcare**.
+I am a final year undergraduate computer science student at the University of Toronto with interests in **explainable AI**, **causality in machine learning**, and **computational healthcare**.
 
-My goal is to make ML model explanations that empower consumers of algorithmic decisions to audit and learn from machine learning models, with a focus on applications to clinical medicine. In particular, I am interested in improving explanations for predictions on medical image data and refining interpretable models for recommending treatments.
+My goal is to help clinicians audit and learn from machine learning models used for clinical medicine tasks. In particular, I am interested in improving explanations for models used in medical image analysis and refining interpretable models for recommending treatments.
 
-The idea of intuitive model explanations that can facilitate stakholder involvement ML development has long fascinated me and has been a recurring theme in my work. While developing a CNN model for brain tumour classification from MRI scans, I explored the use of saliency maps and gradient-based feature attribution techniques as a debugging tool. 
-These tools were mostly helpful in diagnosing failures, giving incomplete perspective of transparency into model predictions.
-In my current position as a Machine Learning researcher at Gene2Lead, I set about uniting medicinal intuition chemists with the intuition of deep learning models they use for drug discovery. I evaluated GradCAM and a host of other local explainability techniques that relied on gradients for explanations, a concept which I realized is alien to most end-users. 
+The idea of intuitive model explanations that can facilitate stakholder involvement ML development has long fascinated me and has been a recurring theme in my work. While developing a CNN model for brain tumour classification, I explored the use of saliency maps and gradient-based feature attribution techniques as a debugging tool. These tools were helpful in diagnosing failures, but provided little transparency into model prediction logic. I realized the value of transparency for end-users after discussions with stakeholders at the University of Toronto research symposium, where my team won the "Best Poster Award".
+
+During my time at Gene2Lead a biotechnology start-up, I developed explainability techniques to help chemists understand the deep learning models they use for drug discovery. I evaluated GradCAM and other local explainability techniques that relied on gradients for explanations, a concept which I realized is obscure to most end users whose intuition relies on technical terms from pharmacology, medicine, and other disciplines. 
+
+Now I am in search of more human-centric ML explainability approaches, while acknowledging the value of inherently interpretable model architectures. I am actively researching ways to help end users in medicine understand black boxes using domain-specific concepts, while also leveraging ideas from causal discovery to develop robust, accurate, and interpretable machine learning models.
 
 
 <!-- Template instructions
