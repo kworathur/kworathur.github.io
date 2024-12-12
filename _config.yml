@@ -21,7 +21,7 @@ repository               : "kworathur/kworathur.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Keshav W."
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate student interest in interpretable machine learning"
