@@ -11,7 +11,7 @@ redirect_from:
 
 Please see the PDF version of my CV [here](/files/cv.pdf)
 
-Education
+<!-- Education
 ======
 
 * B.S. in Computer Science, University of Toronto, 2020-2024
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
