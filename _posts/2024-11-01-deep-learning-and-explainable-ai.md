@@ -13,7 +13,7 @@ Abstract
 
 In the field of computational healthcare, machine learning algorithms have been developed for tumor grading, segmentation, and classification tasks leveraging Magnetic Resonance Imaging (MRI) data. In recent years, deep neural networks have been proposed for these tasks; however, these models are not transparent and do not provide clinicians with a mechanistic understanding of how they work. To address the need for transparency and interpretability in high-stakes clinical settings, we implement three local explainable AI methods in Tensorflow to gain insight into model prediction logic. Our main contribution is the application of Saliency Maps, Gradient-weighted Class Activation Mappings (Grad-CAM), and Counterfactual Explanations for helping neurologists interpret a Convolutional Neural Network (CNN) for brain tumor classification. We corroborate perspectives on the perceived utility of these explanations by drawing on our visualized explanations as evidence. In the process, we hope to provide algorithm developers with tools for explaining black box computer vision algorithms while underscoring limitations of current approaches in the context of medical image analysis problems.
 
-
+<!-- 
 References
 ======
 
@@ -28,7 +28,7 @@ Applied Sciences, 10(6):1999, 2020.
 
 [4] Yusuf Brima and Marcellin Atemkeng.
 Visual interpretable and explainable deep learning models for brain tumor mri and covid-19 chest x-ray images.
-2023.
+2023. -->
 
 
 Presentation Poster
