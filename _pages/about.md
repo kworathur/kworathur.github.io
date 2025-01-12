@@ -15,7 +15,7 @@ The idea of intuitive model explanations that can facilitate stakholder involvem
 
 During my time at biotechnology startup Gene2Lead, I developed explainability techniques to help chemists understand the deep learning models they use for drug discovery. I evaluated GradCAM and other methods that relied on gradients for explanations, which I realized are obscure to most end users whose intuition relies on technical terms from pharmacology, medicine, and other disciplines. 
 
-Now I am in search of more human-centric ML explainability approaches, while acknowledging the value of inherently interpretable model architectures. I am actively researching ways to help end users in medicine understand black boxes using domain-specific concepts, while also leveraging ideas from causal discovery to develop robust and interpretable machine learning models.
+Now I am in search of more human-centric ML explainability approaches, while acknowledging the value of inherently interpretable model architectures. I am actively researching ways to help end users in medicine understand black boxes using domain-specific concepts, while also leveraging ideas from causal ML to develop robust and interpretable machine learning models.
 
 
 <!-- Template instructions
