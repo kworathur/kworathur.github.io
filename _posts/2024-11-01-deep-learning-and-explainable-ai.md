@@ -44,7 +44,6 @@ The rest of the paper is organized as follows:
 2. Next in the “Results” section we will present sample visualizations of explanations obtained for a subset of data points from the dataset. 
 3. In the “Discussion” section, we interpret the explanations, underscore their limitations, and propose desiderata for explanations of medical image models.
 
->>>>>>> d3eea87669e4f4b7ba8bc331210c872c416527bf
 
 References
 ======
