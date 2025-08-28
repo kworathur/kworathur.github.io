@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year undergraduate computer science student at the University of Toronto with interests in **explainable AI**, **causality in machine learning**, and **computational healthcare**.
+
+I am a first year master's student in Computer Science at Georgia Institute of Technology with interests in  **efficient machine learning**, **explainable AI**, and **computational healthcare**.
 
 My goal is to help clinicians audit and learn from machine learning models used for predicting risk of disease, recommending prescriptions, and other tasks in clinical medicine. In particular, I am interested in improving explanations for models used in medical image analysis and refining interpretable models for recommending treatments.
 
